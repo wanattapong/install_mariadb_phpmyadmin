@@ -1,4 +1,4 @@
-### install_mariadb_phpmyadmin
+## install_mariadb_phpmyadmin
 
 [https://mariadb.com/resources/blog/installing-mariadb-10-1-16-on-mac-os-x-with-homebrew/](https://mariadb.com/resources/blog/installing-mariadb-10-1-16-on-mac-os-x-with-homebrew/)
 
